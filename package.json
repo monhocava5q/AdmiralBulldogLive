@@ -42,7 +42,7 @@
     "ava": "^4.1.0",
     "babel-plugin-module-resolver": "^4.1.0",
     "cross-env": "^7.0.3",
-    "jsdom": "^19.0.0",
+    "jsdom": "^24.1.1",
     "jsdom-global": "^3.0.2",
     "material-design-icons-iconfont": "^6.4.2",
     "require-extension-hooks": "^0.3.3",
